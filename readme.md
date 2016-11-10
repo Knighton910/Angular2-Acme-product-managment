@@ -12,3 +12,6 @@
     It also starts the lite-server and launches the browser to run the application.
 
 :heart: Angular2 :heart: 
+
+
+:construction: still in progress - 
