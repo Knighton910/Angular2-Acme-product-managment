@@ -1,6 +1,6 @@
 ![angular2](public/ang.png)
 
-##  Acme Product Managment  made with Angular 2 
+Acme Product Managment  made with Angular 2 
 =========
 
 1) Open a command prompt in the project's root directory (APM - Start)
